@@ -1,0 +1,105 @@
+.review_panel {
+    display: flex;
+    flex-direction: column;
+    border: hidden;
+    position: relative;
+    height: 7cm;
+	width: 20cm;
+    overflow-y: scroll;
+    padding: 2px;
+    padding-top: 0%;
+    border-radius:10px; 
+    box-shadow: 0px 1px 12px rgba(0, 0, 0, 0.5);
+    margin-bottom: .5cm;
+	background-color: #fbfbfb;
+	color: #0a0a0a;
+}
+  
+/* Hide scrollbar for Chrome, Safari and Opera */
+.review_panel::-webkit-scrollbar {
+	display: none;
+}
+ /* Hide scrollbar for IE, Edge and Firefox */
+.review_panel{
+	-ms-overflow-style: none;  /* IE and Edge */
+	scrollbar-width: none;  /* Firefox */
+ 
+}
+
+.postreview {
+    margin:20px;
+    padding:10px;
+    font-size: larger;
+}
+
+
+.reviews_panel {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    column-gap: 10px;
+    overflow-wrap: normal;
+    margin-top: 1cm;
+    align-items: flex-start;
+}
+
+.reviewer {
+    font-style: italic;
+    color: gray;
+}
+
+.review {
+	margin-top: 5px;
+	flex-grow: 6
+}
+.review-date {
+
+}
+.review-rating {
+
+}
+.emotion_icon {
+	align-self: center;
+    width:25px;
+    height:25px;
+    background-color:#283754;
+    color:#FFF;
+    border-radius:5px;
+    text-align:center;
+	align-items: flex-end;
+ 
+}
+
+.review_icon {
+	width:40px;
+}
+
+.review-button {
+	margin-top: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 15px;
+	width: 10%;
+	border-radius: 5px;
+	background-color: #2a3443;
+	color: #ebebeb;
+	font-size: 14px;
+	text-decoration: none;
+}
+.review-button a{
+	text-decoration: none;
+}
+.review-button:hover {
+	border: 0.5px solid lightgray;
+	color: #white;
+}
+
+.review_icon:hover {
+	transform: scale(1.1);
+	border:  solid lightgray;
+}
+body {
+	margin: 0;
+	color: #dddddd;
+	background-color: #161920;
+}

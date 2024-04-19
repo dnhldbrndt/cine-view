@@ -1,0 +1,74 @@
+{
+  "movies": [
+    {
+      "id": "2370248",
+      "title": "Short Term 12",
+      "year": 2013,
+      "country": "USA",
+      "genre": "Drama",
+      "director": "Destin Daniel Cretton",
+      "minutes": 96,
+      "poster": "http://ia.media-imdb.com/images/M/MV5BMTEwNjE2OTM4NDZeQTJeQWpwZ15BbWU3MDE2MTE4OTk@._V1_SX300.jpg"
+    },
+	{
+      "id": "0108394",
+      "title": "Three Colors: Blue",
+      "year": 1993,
+      "country": "France",
+      "genre": "Drama",
+      "director": "Krzysztof Kieslowski",
+      "minutes": 98,
+      "poster": "http://ia.media-imdb.com/images/M/MV5BMjExNzQ5NTA1OV5BMl5BanBnXkFtZTcwMDkxMjcyMQ@@._V1_SX300.jpg"
+    },
+	{
+      "id": "0085780",
+      "title": "The Keep",
+      "year": 1983,
+      "country": "USA",
+      "genre": "Horror",
+      "director": "Michael Mann",
+      "minutes": 96,
+      "poster": "http://ia.media-imdb.com/images/M/MV5BMjAxMjU0ODUyN15BMl5BanBnXkFtZTYwODI1MTQ5._V1_SX300.jpg"
+    },
+	{
+      "id": "0337741",
+      "title": "Something's Gotta Give",
+      "year": 2003,
+      "country": "USA",
+      "genre": "Comedy",
+      "director": "Nancy Meyers",
+      "minutes": 128,
+      "poster": "http://ia.media-imdb.com/images/M/MV5BMTQ0NTExMjk2Nl5BMl5BanBnXkFtZTcwOTQ0NTUyMQ@@._V1_SX300.jpg"
+    },
+		{
+      "id": "3682448",
+      "title": "Bridge of Spies",
+      "year": 2015,
+      "country": "USA",
+      "genre": "Biography",
+      "director": "Steven Spielberg",
+      "minutes": 141,
+      "poster": "http://ia.media-imdb.com/images/M/MV5BMjIxOTI0MjU5NV5BMl5BanBnXkFtZTgwNzM4OTk4NTE@._V1_SX300.jpg"
+    },
+	{
+      "id": "0107290",
+      "title": "Jurassic Park",
+      "year": 1993,
+      "country": "USA",
+      "genre": "Adventure",
+      "director": "Steven Spielberg",
+      "minutes": 127,
+      "poster": "http://ia.media-imdb.com/images/M/MV5BMjM2MDgxMDg0Nl5BMl5BanBnXkFtZTgwNTM2OTM5NDE@._V1_SX300.jpg"
+    },
+	{
+      "id": "0050212",
+      "title": "The Bridge on the River Kwai",
+      "year": 1957,
+      "country": "USA",
+      "genre": "Adventure",
+      "director": "David Lean",
+      "minutes": 161,
+      "poster": "http://ia.media-imdb.com/images/M/MV5BMTc2NzA0NTEwNF5BMl5BanBnXkFtZTcwMzA0MTk3OA@@._V1_SX300.jpg"
+    }
+  ]
+}
