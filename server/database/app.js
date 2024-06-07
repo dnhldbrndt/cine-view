@@ -17,7 +17,6 @@ mongoose.connect("mongodb://mongo_db:27017/",{'dbName':'moviesDB'});
 
 
 const Reviews = require('./review');
-
 const Movies = require('./movie');
 
 try {
