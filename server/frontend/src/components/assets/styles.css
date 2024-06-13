@@ -216,3 +216,7 @@ body {
 	background-color: #1f2733 !important;
 	border-bottom: 1px solid #394353;
 }
+
+li.menu-item:not(:last-child) { 
+   margin-bottom: 32px;  
+}
