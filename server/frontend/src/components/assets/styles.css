@@ -214,4 +214,5 @@ body {
 
 .bg-dark {
 	background-color: #1f2733 !important;
+	border-bottom: 1px solid #394353;
 }

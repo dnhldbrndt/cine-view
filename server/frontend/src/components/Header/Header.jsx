@@ -82,11 +82,7 @@ if ( curr_user !== null &&  curr_user !== "") {
 
 					</span>
 			  </div>
-			</nav>
- 
-
- 		
-			   
+			</nav>   
         </div>
     )
 }

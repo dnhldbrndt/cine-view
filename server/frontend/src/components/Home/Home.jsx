@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
- import tapes from "../assets/tapes.jpg"
+import tapes from "../assets/tapes.jpg"
 import "../assets/styles.css";
 import Header from '../Header/Header';
  
