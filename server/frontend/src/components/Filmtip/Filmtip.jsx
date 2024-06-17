@@ -19,12 +19,12 @@ return(
 			  <h1>Filmtip</h1>
 			 
 			Here is a selection of films that we recommend.
-						<div style={{display: "flex",flexDirection: "row", margin:"auto", gap: "5px"}}>
-						  <img src={thirdman} style={{width:"20%",height:"20%"}}  alt="The Third Man (1949)"/>
-						  <img src={panama} style={{width:"20%",height:"20%"}}  alt="The Tailor of Panama (2001)"/>
-						  <img src={wild} style={{width:"20%",height:"20%"}}  alt="Wild at Heart (1990)"/>
-						  <img src={riverkwai} style={{width:"20%",height:"20%"}}  alt="Bridge on the River Kwai (1957)"/>
-						  <img src={dontlooknow} style={{width:"20%",height:"20%"}}  alt="Don't Look Now (1973)"/>
+						<div className="fill" style={{}}>
+						  <img src={thirdman} style={{}}  alt="The Third Man (1949)"/>
+						  <img src={panama} style={{}}  alt="The Tailor of Panama (2001)"/>
+						  <img src={wild} style={{}}  alt="Wild at Heart (1990)"/>
+						  <img src={riverkwai} style={{}}  alt="Bridge on the River Kwai (1957)"/>
+						  <img src={dontlooknow} style={{}}  alt="Don't Look Now (1973)"/>
 						</div>
 			 <hr style={{height:"2px",borderWidth:"0",color:"gray",backgroundColor:"gray"}} />
 			 <h4 style={{textAlign:"left"}}></h4>

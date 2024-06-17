@@ -220,3 +220,17 @@ body {
 li.menu-item:not(:last-child) { 
    margin-bottom: 32px;  
 }
+
+.fill {
+	display: flex;
+	flex-direction: row; 
+	margin:auto; 
+	gap: 5px;
+}
+.fill img {
+    flex-shrink: 0;
+    min-width: 10%;
+    min-height: 10%;
+	width:200px;
+	height:300px;
+}
