@@ -1,4 +1,4 @@
-![cineview](vineview.jpg "Cine View")
+![cineview](cineview.jpg "Cine View")
 
 # Cine View
 
